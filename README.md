@@ -14,7 +14,7 @@ cmd /c "npm run start"
 If your terminal opens one folder higher in the outer downloaded folder, use:
 
 ```powershell
-cd .\pakiship_login_signup-main
+cd .\pakiship_login_signup_FE-main
 cmd /c "npm run install:app"
 cmd /c "npm run start"
 ```
@@ -32,7 +32,7 @@ The `pakiShip_Login-main` folder is an older standalone login version kept here 
 If your VS Code terminal opens in the outer downloaded folder, move into the app workspace first:
 
 ```powershell
-cd .\pakiship_login_signup-main
+cd .\pakiship_login_signup_FE-main
 ```
 
 Then run:
