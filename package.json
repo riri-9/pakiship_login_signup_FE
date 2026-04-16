@@ -1,0 +1,14 @@
+{
+  "name": "pakiship-login-signup-workspace",
+  "private": true,
+  "scripts": {
+    "install:app": "npm install --prefix pakiShip_Signup-main --legacy-peer-deps",
+    "start": "npm run start --prefix pakiShip_Signup-main",
+    "dev": "npm run dev --prefix pakiShip_Signup-main",
+    "android": "npm run android --prefix pakiShip_Signup-main",
+    "ios": "npm run ios --prefix pakiShip_Signup-main",
+    "test": "npm run test --prefix pakiShip_Signup-main",
+    "lint": "npm run lint --prefix pakiShip_Signup-main",
+    "verify": "npm run verify --prefix pakiShip_Signup-main"
+  }
+}
