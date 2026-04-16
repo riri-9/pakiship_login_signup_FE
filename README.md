@@ -4,7 +4,14 @@ This repository contains the frontend React Native and Expo app for PakiShip.
 
 ## Run This Project
 
-From the outer downloaded folder, use:
+If your terminal is already in the repository root, use:
+
+```powershell
+cmd /c "npm run install:app"
+cmd /c "npm run start"
+```
+
+If your terminal opens one folder higher in the outer downloaded folder, use:
 
 ```powershell
 cd .\pakiship_login_signup-main
